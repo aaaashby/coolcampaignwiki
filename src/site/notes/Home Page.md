@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","contentClasses":"note-accent-3","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
 > [!caption] Attica
