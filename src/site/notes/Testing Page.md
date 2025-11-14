@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/testing-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/testing-page/","contentClasses":"note-accent-3","tags":["gardenEntry"]}
 ---
 
 # Test Title
